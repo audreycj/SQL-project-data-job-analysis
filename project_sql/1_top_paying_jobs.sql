@@ -12,7 +12,7 @@ SELECT
     job_title,
     job_location,
     job_schedule_type,
-    salary_year_avg,
+    TO_CHAR(ROUND(salary_year_avg, 0), 'FM$999,999,999') AS avg_yearly_salary,
     job_posted_date,
     name AS company_name
 FROM

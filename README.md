@@ -231,7 +231,8 @@ LIMIT 25;
 | 76       | aws        | 32           | $108,317              |
 | 4        | java       | 17           | $106,906              |
 | 194      | ssis       | 12           | $106,683              |
-| 233      | jira       | 20           | $104,918              |  
+| 233      | jira       | 20           | $104,918              |
+
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
